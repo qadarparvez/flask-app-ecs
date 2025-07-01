@@ -22,3 +22,5 @@ EXPOSE 80
 
 CMD ["python","run.py"]
 
+
+
